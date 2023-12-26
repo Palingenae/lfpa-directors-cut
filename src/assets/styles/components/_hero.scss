@@ -1,0 +1,19 @@
+.hero {
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    gap: $spacing-200;
+    padding: $spacing-1600;
+    &__presentation {
+        font-family: $font-text;
+        font-size: 3rem;
+    }
+
+    &__greetings {
+        font-family: $font-titles;
+        font-size: 2rem;
+        font-variation-settings: 'wght' 600;
+        text-align: end;
+    }
+}

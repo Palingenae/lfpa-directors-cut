@@ -1,0 +1,46 @@
+$black: #0D0D0D;
+$gray-950: #262527;
+$gray-900: #3C3C3D;
+$gray-800: #444446;
+$gray-700: #4E4D51;
+$gray-600: #5C5B5F;
+$gray-500: #67666B;
+$gray-400: #86858B;
+$gray-300: #AFAEB2;
+$gray-200: #D0CFD2;
+$gray-100: #E6E6E7;
+$gray-50: #F5F5F6;
+
+$font-display: "Clash Display", serif;
+$font-titles: "Clash Grotesk", serif;
+
+$font-text: "Overused Grotesk", monospace;
+
+$text-width: 72ch;
+$block-width: 96rem !default;
+
+/* ----- Spacing ----- */
+$spacing-kerning: normal;
+$spacing-letter-spacing-display: -0.15rem;
+$spacing-letter-spacing-title: 0.1rem;
+$spacing-letter-spacing-text: 0.05rem;
+$spacing-display-line-height: 1.16;
+$spacing-large-text-line-height: 1.9;
+$spacing-body-line-height: 1.7;
+$spacing-25: 0.25rem;
+$spacing-50: 0.5rem;
+$spacing-100: 1rem;
+$spacing-150: 1.5rem;
+$spacing-200: 2rem;
+$spacing-300: 3rem;
+$spacing-400: 4rem;
+$spacing-600: 6rem;
+$spacing-800: 8rem;
+$spacing-1600: 16rem;
+
+/* ----- Screen sizes ----- */
+$screen-size-xxl: 160rem;
+$screen-size-xl: 120rem;
+$screen-size-lg: 90rem;
+$screen-size-md: 64rem;
+$screen-size-sm: 48rem;

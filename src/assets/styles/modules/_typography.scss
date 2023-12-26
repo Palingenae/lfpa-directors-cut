@@ -1,0 +1,21 @@
+/*
+** Importing typography
+*/
+
+@font-face {
+    font-family: "Clash Display";
+    font-style: normal;
+    src: url('../../fonts/clash/ClashDisplay-Variable.ttf');
+  }
+  
+  @font-face {
+    font-family: "Clash Grotesk";
+    font-style: italic;
+    src: url('../../fonts/clash/ClashGrotesk-Variable.ttf');
+  }
+  
+  @font-face {
+    font-family: "Overused Grotesk";
+    src: url('../../fonts/overusedgrotesk/OverusedGrotesk-VF.ttf');
+  }
+  
